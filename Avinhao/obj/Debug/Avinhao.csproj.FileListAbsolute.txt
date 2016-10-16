@@ -1,0 +1,10 @@
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\bin\Debug\Avinhao.exe.config
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\bin\Debug\Avinhao.exe
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\bin\Debug\Avinhao.pdb
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.Form1.resources
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.Properties.Resources.resources
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.csproj.GenerateResource.Cache
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.exe
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\obj\Debug\Avinhao.pdb
+C:\Users\Marcos Paulo\Desktop\Computação Gráfica\Avinhao\Avinhao\bin\Debug\Resource\avinhao.png
